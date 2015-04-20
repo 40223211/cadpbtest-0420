@@ -9,5 +9,5 @@ Github integration: https://github.com/product-owner/2015scrum
 course website: http://cd-cadp.rhcloud.com
 
 
-
+  http://cdbg7-40223250.rhcloud.com//mygeartest2
 
